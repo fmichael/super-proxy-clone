@@ -29,7 +29,7 @@ ANONYMIZE_RESPONSES = False
 #   atlantic, atc, adt, eastern, est, edt, central, cst, cdt, mountain, mst,
 #   mdt, pacific, pst, pdt, utc
 # TODO(pfrisella): Move this into an Admin Web UI.
-TIMEZONE = 'pacific'
+TIMEZONE = 'eastern'
 
 # A list of all supported formats for responses.
 # The key represents the query paramter value to use to request a format.
